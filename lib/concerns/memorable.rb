@@ -9,5 +9,5 @@ module Memorable
   def self.count
     self.all.clear
   end
-  
+
 end
